@@ -44,4 +44,16 @@ Running a Minecraft server requires a decent amount of RAM and CPU. This app is 
 
 Feel free to fork, contribute, or open an issue if you find a bug. Happy hosting! ⛏️
 
-MADE BY BADİADAM
+SCREENSHOTS
+
+![IMG_20260317_082943](https://github.com/user-attachments/assets/6ddc00bf-075e-4e74-83dc-6f6b504ee4b2)
+
+![IMG_20260317_082811](https://github.com/user-attachments/assets/caf05ee8-e147-4629-b17b-e84a224f2d35)
+
+![IMG_20260317_082835](https://github.com/user-attachments/assets/62eff345-e85d-4125-9698-2ef4b45563d4)
+
+![IMG_20260317_082855](https://github.com/user-attachments/assets/1d4fe6a0-8569-4b21-b3cf-f624c1995cb6)
+
+![IMG_20260317_082921](https://github.com/user-attachments/assets/45f3cdbc-d8e9-4fd9-8afc-d3bd47046504)
+
+
