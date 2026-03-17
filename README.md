@@ -43,3 +43,5 @@ You come back to AServer, and it hooks into the server via RCON on port 25575 to
 Running a Minecraft server requires a decent amount of RAM and CPU. This app is designed for modern Android devices. Remember to keep your device cooled!
 
 Feel free to fork, contribute, or open an issue if you find a bug. Happy hosting! ⛏️
+
+MADE BY BADİADAM
