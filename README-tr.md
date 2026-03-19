@@ -1,7 +1,5 @@
 🌍 *Diğer dillerde oku: [English](README.md)*
 
-# 📱 AServer - En Gelişmiş Cep Node'u
-
 Herkese merhaba! 👋 **AServer**'a hoş geldiniz.
 
 "Android telefonumda terminal ekranında aklımı kaçırmadan, tam teşekküllü bir Minecraft Java sunucusu çalıştırabilir miyim?" gibi çılgınca bir fikirle başlayan bu serüven; Android için tamamen yerel (native) olarak kodlanmış, modern, zırhlı ve eksiksiz bir node kontrol paneline dönüştü.
