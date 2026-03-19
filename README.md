@@ -1,3 +1,5 @@
+🌍 *Read this in other languages: [Türkçe (Turkish)](README-tr.md)*
+
 Hey everyone! 👋 Welcome to **AServer**.
 
 What started as a crazy idea—*"Can I run a fully functional Minecraft Java server on my Android phone without losing my mind in a terminal?"*—has evolved into a fully-fledged, robust, and modern node control panel built natively for Android. 
