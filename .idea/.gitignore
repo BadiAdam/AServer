@@ -1,0 +1,3 @@
+# Varsayılan olarak yok sayılan dosyalar
+/shelf/
+/workspace.xml

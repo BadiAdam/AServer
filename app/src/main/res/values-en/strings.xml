@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">AServer</string>
+    <string name="tab_new">New</string>
+    <string name="tab_servers">Servers</string>
+    <string name="tab_files">Files</string>
+    <string name="tab_console">Console</string>
+    <string name="tab_players">Players</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="setup_title">Create Server</string>
+    <string name="setup_profile_name">Profile Name</string>
+    <string name="setup_software">Software</string>
+    <string name="setup_version">Select Version</string>
+    <string name="setup_motd">Server Message (MOTD)</string>
+    <string name="setup_op_name">Admin (OP) Username</string>
+    <string name="setup_seed">World Seed (Optional)</string>
+    <string name="setup_btn_creating">PREPARING FILES...</string>
+    <string name="setup_btn_create">CREATE PROFILE &amp; DOWNLOAD</string>
+    <string name="setup_card_profile">PROFILE &amp; SOFTWARE</string>
+    <string name="setup_card_general">GENERAL SETTINGS</string>
+    <string name="setup_card_rules">GAME RULES</string>
+    <string name="setup_card_network">NETWORK &amp; SYSTEM</string>
+    <string name="setup_gamemode">Game Mode</string>
+    <string name="setup_difficulty">Difficulty</string>
+    <string name="setup_view_dist">View Distance</string>
+    <string name="setup_sim_dist">Simulation Distance</string>
+    <string name="setup_max_players">Max Players</string>
+    <string name="setup_hardcore">Hardcore Mode</string>
+    <string name="setup_port">Port</string>
+    <string name="setup_ram">Allocated RAM (GB)</string>
+    <string name="setup_playit">Remote Connection (Playit.gg)</string>
+    <string name="setup_playit_desc">Allow friends to join over the internet</string>
+    <string name="setup_online_mode">Online Mode (Premium)</string>
+    <string name="setup_btn_termux">COPY &amp; OPEN TERMUX</string>
+
+    <string name="srv_title">My Servers</string>
+    <string name="srv_warning">WARNING: Only run one server at a time!</string>
+    <string name="srv_empty">You haven\'t created a server profile yet.</string>
+    <string name="srv_net_open">Network Open</string>
+    <string name="srv_net_closed">Network Closed</string>
+    <string name="srv_btn_start">START</string>
+
+    <string name="file_title">File Manager</string>
+    <string name="file_new_folder">Create New Folder</string>
+    <string name="file_folder_name">Folder Name</string>
+    <string name="file_btn_create">Create</string>
+    <string name="file_btn_cancel">Cancel</string>
+    <string name="file_btn_save">SAVE</string>
+    <string name="file_store_title">Plugin Store</string>
+    <string name="file_btn_download">DOWNLOAD</string>
+    <string name="file_btn_close">Close</string>
+
+    <string name="cons_tasks">Automated Tasks</string>
+    <string name="cons_new_task">Add New Task</string>
+    <string name="cons_task_type">Task Type</string>
+    <string name="cons_task_msg">Your Message</string>
+    <string name="cons_task_cmd">Command (e.g. save-all)</string>
+    <string name="cons_task_interval">Repeat Interval: %1$d Minutes</string>
+    <string name="cons_btn_add">ADD</string>
+    <string name="cons_active_tasks">Active Tasks</string>
+    <string name="cons_no_tasks">No tasks added yet.</string>
+    <string name="cons_every_min">Every %1$d minutes</string>
+    <string name="cons_ip_copied">IP Address Copied!</string>
+    <string name="cons_tunnel">APPROVE TUNNEL</string>
+    <string name="cons_btn_stop">STOP SERVER</string>
+    <string name="cons_btn_stopping">SERVER STARTING OR OFFLINE</string>
+    <string name="cons_sys_msg">SYSTEM MESSAGES</string>
+    <string name="cons_title">CONSOLE: %1$s</string>
+    <string name="cons_online">Online</string>
+    <string name="cons_waiting">Waiting</string>
+    <string name="cons_input_hint">Enter command...</string>
+
+    <string name="plr_title">Hall of Justice</string>
+    <string name="plr_no_server">No Server Selected</string>
+    <string name="plr_no_server_desc">Start a server first to use the management panel.</string>
+    <string name="plr_tab_active">Active</string>
+    <string name="plr_tab_banned">Banned</string>
+    <string name="plr_tab_wl">Whitelist</string>
+    <string name="plr_offline_msg">Server is offline. You can use offline management from the tabs on the right.</string>
+    <string name="plr_nobody">No one is currently in the game.</string>
+    <string name="plr_online_count">Online: %1$d</string>
+    <string name="plr_banned_count">Banned Players: %1$d</string>
+    <string name="plr_ban_empty">Ban list is clean.</string>
+    <string name="plr_btn_pardon">PARDON</string>
+    <string name="plr_wl_shield">Whitelist Protection</string>
+    <string name="plr_wl_desc">If enabled, only listed players can join</string>
+    <string name="plr_wl_hint">Type player name...</string>
+    <string name="plr_wl_count">Allowed Players: %1$d</string>
+    <string name="plr_wl_empty">No one has been added yet.</string>
+
+    <string name="mon_title">SYSTEM &amp; NETWORK INFO</string>
+    <string name="mon_ip">Device Local IP</string>
+    <string name="mon_ram_alloc">Allocated Server RAM</string>
+    <string name="mon_ram_usage">Device Total RAM (Used)</string>
+    <string name="mon_cpu">CPU Load</string>
+
+    <string name="set_title">Settings</string>
+    <string name="set_lang">Application Language</string>
+</resources>

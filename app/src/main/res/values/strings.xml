@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">AServer</string>
+    <string name="tab_new">Yeni</string>
+    <string name="tab_servers">Sunucular</string>
+    <string name="tab_files">Dosyalar</string>
+    <string name="tab_console">Konsol</string>
+    <string name="tab_players">Oyuncular</string>
+    <string name="tab_settings">Ayarlar</string>
+
+    <string name="setup_title">Sunucu Oluştur</string>
+    <string name="setup_profile_name">Profil Adı</string>
+    <string name="setup_software">Yazılım</string>
+    <string name="setup_version">Sürüm Seçiniz</string>
+    <string name="setup_motd">Açıklama (MOTD)</string>
+    <string name="setup_op_name">Kurucu (OP) Oyuncu Adı</string>
+    <string name="setup_seed">Dünya Seed (İsteğe bağlı)</string>
+    <string name="setup_btn_creating">DOSYALAR HAZIRLANIYOR...</string>
+    <string name="setup_btn_create">PROFİLİ OLUŞTUR VE İNDİR</string>
+    <string name="setup_card_profile">PROFİL VE YAZILIM</string>
+    <string name="setup_card_general">GENEL AYARLAR</string>
+    <string name="setup_card_rules">OYUN KURALLARI</string>
+    <string name="setup_card_network">AĞ VE SİSTEM</string>
+    <string name="setup_gamemode">Oyun Modu</string>
+    <string name="setup_difficulty">Zorluk</string>
+    <string name="setup_view_dist">Görüş Mesafesi</string>
+    <string name="setup_sim_dist">Simülasyon Mesafesi</string>
+    <string name="setup_max_players">Maks. Oyuncu</string>
+    <string name="setup_hardcore">Hardcore Modu</string>
+    <string name="setup_port">Port</string>
+    <string name="setup_ram">Sunucuya Ayrılacak RAM (GB)</string>
+    <string name="setup_playit">Uzak Bağlantı (Playit.gg)</string>
+    <string name="setup_playit_desc">Arkadaşların internetten bağlanabilsin</string>
+    <string name="setup_online_mode">Online Mode (Premium)</string>
+    <string name="setup_btn_termux">KOPYALA VE TERMUX\'U AÇ</string>
+
+    <string name="srv_title">Sunucularım</string>
+    <string name="srv_warning">DİKKAT: Aynı anda sadece bir sunucu başlatın!</string>
+    <string name="srv_empty">Henüz bir sunucu profili oluşturmadın.</string>
+    <string name="srv_net_open">Ağ Açık</string>
+    <string name="srv_net_closed">Ağ Kapalı</string>
+    <string name="srv_btn_start">BAŞLAT</string>
+
+    <string name="file_title">Dosya Yöneticisi</string>
+    <string name="file_new_folder">Yeni Klasör Oluştur</string>
+    <string name="file_folder_name">Klasör Adı</string>
+    <string name="file_btn_create">Oluştur</string>
+    <string name="file_btn_cancel">İptal</string>
+    <string name="file_btn_save">KAYDET</string>
+    <string name="file_store_title">Eklenti Mağazası</string>
+    <string name="file_btn_download">İNDİR</string>
+    <string name="file_btn_close">Kapat</string>
+
+    <string name="cons_tasks">Otomatik Görevler</string>
+    <string name="cons_new_task">Yeni Görev Ekle</string>
+    <string name="cons_task_type">Görev Tipi</string>
+    <string name="cons_task_msg">Mesajınız</string>
+    <string name="cons_task_cmd">Komut (Örn: save-all)</string>
+    <string name="cons_task_interval">Tekrar Süresi: %1$d Dakika</string>
+    <string name="cons_btn_add">EKLE</string>
+    <string name="cons_active_tasks">Aktif Görevler</string>
+    <string name="cons_no_tasks">Henüz bir görev eklenmedi.</string>
+    <string name="cons_every_min">Her %1$d dakikada</string>
+    <string name="cons_ip_copied">IP Adresi Kopyalandı!</string>
+    <string name="cons_tunnel">TÜNELİ ONAYLA</string>
+    <string name="cons_btn_stop">SUNUCUYU DURDUR</string>
+    <string name="cons_btn_stopping">SUNUCU BAŞLATILIYOR VEYA KAPALI</string>
+    <string name="cons_sys_msg">SİSTEM MESAJLARI</string>
+    <string name="cons_title">KONSOL: %1$s</string>
+    <string name="cons_online">Çevrimiçi</string>
+    <string name="cons_waiting">Bekleniyor</string>
+    <string name="cons_input_hint">Komut yaz...</string>
+
+    <string name="plr_title">Adalet Sarayı</string>
+    <string name="plr_no_server">Sunucu Seçilmedi</string>
+    <string name="plr_no_server_desc">Yönetim paneli için önce bir sunucu başlatın.</string>
+    <string name="plr_tab_active">Aktif</string>
+    <string name="plr_tab_banned">Yasaklı</string>
+    <string name="plr_tab_wl">Beyaz Liste</string>
+    <string name="plr_offline_msg">Sunucu kapalı. Sağdaki sekmelerden çevrimdışı yönetimi kullanabilirsiniz.</string>
+    <string name="plr_nobody">Şu an kimse oyunda değil.</string>
+    <string name="plr_online_count">Çevrimiçi: %1$d</string>
+    <string name="plr_banned_count">Yasaklı Oyuncular: %1$d</string>
+    <string name="plr_ban_empty">Ban listesi tertemiz.</string>
+    <string name="plr_btn_pardon">AFFET</string>
+    <string name="plr_wl_shield">Beyaz Liste Koruması</string>
+    <string name="plr_wl_desc">Açıksa sadece listedekiler girebilir</string>
+    <string name="plr_wl_hint">Oyuncu adı yaz...</string>
+    <string name="plr_wl_count">İzinli Oyuncular: %1$d</string>
+    <string name="plr_wl_empty">Henüz kimse eklenmemiş.</string>
+
+    <string name="mon_title">SİSTEM VE AĞ BİLGİSİ</string>
+    <string name="mon_ip">Cihaz Yerel IP Adresi</string>
+    <string name="mon_ram_alloc">Sunucuya Ayrılan RAM</string>
+    <string name="mon_ram_usage">Cihaz Genel RAM (Kullanılan)</string>
+    <string name="mon_cpu">İşlemci Yükü</string>
+
+    <string name="set_title">Ayarlar</string>
+    <string name="set_lang">Uygulama Dili / Language</string>
+</resources>
